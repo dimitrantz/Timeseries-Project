@@ -1,5 +1,5 @@
 # Timeseries-Project
-Implementation of linear and non-linear analysis on eye movement datasets
+Timeseries Project : Implementation of linear and non-linear analysis on eye movement datasets (9th semester | Oct 2017 – Jan 2018)
 
 ## Project description:
 
